@@ -1,0 +1,106 @@
+ .u-section-1 {
+  background-image: url("images/black-white-exterior-building.jpg");
+  background-position: 50% 0%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 687px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 73px 497px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 810px 60px 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 0% 0%;
+    background-size: 110%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 566px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 297px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 610px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 5.18% 0%;
+    background-size: 140%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 434px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 77px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 390px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    background-size: auto 160%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 210px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 205px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 10px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 21px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 728px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+}
