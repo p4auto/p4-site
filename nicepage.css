@@ -47140,6 +47140,7 @@ a.u-link.u-text-hover-color-var:hover {
   font-weight: 400;
   font-size: 0.875rem;
   text-transform: uppercase;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -47214,10 +47215,6 @@ a.u-link.u-text-hover-color-var:hover {
     width: auto;
     margin-top: 15px;
     margin-right: 46px;
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
   }
 
   .u-header .u-image-1 {
